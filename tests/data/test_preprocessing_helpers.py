@@ -1,8 +1,9 @@
 # pylint: disable=missing-docstring
 from unittest.mock import call
 import pytest
-import sys
-sys.path.append("/home/arunkhattri/github/campus/python/unittesting/src/")
+# for local pytest
+# import sys
+# sys.path.append("/home/arunkhattri/github/unittesting/src/")
 # import pprint
 # pprint.pprint(sys.path)
 

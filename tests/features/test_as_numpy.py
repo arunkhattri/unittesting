@@ -2,9 +2,9 @@
 import os
 import pytest
 import numpy as np
-import sys
-
-sys.path.append("/home/arunkhattri/github/campus/python/unittesting/src/")
+# for local pytest
+# import sys
+# sys.path.append("/home/arunkhattri/github/unittesting/src/")
 from features.as_numpy import get_data_as_numpy_array
 
 
